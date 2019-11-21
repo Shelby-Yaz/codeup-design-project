@@ -104,3 +104,15 @@ body{
 .badge-4{
     background-color: #00aba9;
 }
+
+.navbar-nav{
+    align-items:center;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+.right{
+    justify-content: center;
+}
+.left{
+    justify-content: center;
+}
