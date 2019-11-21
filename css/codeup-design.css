@@ -3,9 +3,6 @@ body{
     margin-top: 40px;
 }
 
-.navbar{
-    height: 50px;
-}
 
 #company-name {
     font-family: 'Abel', sans-serif;
@@ -67,4 +64,8 @@ body{
 > [class*="col-"] {
     padding-right: 0;
     padding-left: 0;
+}
+#nav{
+    background-color: #FFFFFF;
+    height: 50px;
 }
