@@ -3,15 +3,6 @@ body{
     margin-top: 40px;
 }
 
-/*p{*/
-/*    font-family: 'Abel', sans-serif;*/
-
-/*}*/
-
-/*h1,h2,h3,h4,h5,h6{*/
-/*    font-family: 'Anton', sans-serif;*/
-/*}*/
-
 .navbar{
     height: 50px;
 }
@@ -22,9 +13,9 @@ body{
 }
 
 
-/*.container{*/
+.container{
 
-/*}*/
+}
 
 .thin-font {
     font-family: 'Abel', sans-serif;
@@ -34,3 +25,13 @@ body{
 .heavy-font{
     font-family: 'Anton', sans-serif;
 }
+
+/*p{*/
+
+/*    font-family: 'Abel', sans-serif;*/
+
+/*}*/
+/*h1,h2,h3,h4,h5,h6{*/
+/*    font-family: 'Anton', sans-serif;*/
+
+/*}*/
